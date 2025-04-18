@@ -1,0 +1,33 @@
+# List of Persons
+  # Person Sivakumar
+- Name: Sivakumar
+  Age: 30
+  DOB: 01-01-1992
+  # Map of Addresses
+  Addresses:
+    Perm Address:
+      DNO: 192
+      Street: Gandhi Street
+      City: Nellore
+      PIN: 524343
+    Current Address:
+      DNO: 192-B
+      Street: Marathahalli
+      City: Bengaluru
+      PIN: 630023
+  # Person Suresh
+- Name: Suresh
+  Age: 25
+  DOB: 01-01-1995
+  # Map of Addresses
+  Addresses:
+    Perm Addresses:
+      DNO: 193
+      Street: Gandhi Street
+      City: Nellore
+      PIN: 524344
+    Current Addresses:
+      DNO: 192-B
+      Street: Marathahalli
+      City: Bengaluru
+      PIN: 630025   
